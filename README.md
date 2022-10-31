@@ -4,4 +4,4 @@ This project will pop up random numbers on the screen for the user and they will
 # Tutorial
 [Tutorial Link](https://docs.oracle.com/javafx/2/get_started/fxml_tutorial.htm)
 # Screenshots
-
+Is available under the issues tab.
