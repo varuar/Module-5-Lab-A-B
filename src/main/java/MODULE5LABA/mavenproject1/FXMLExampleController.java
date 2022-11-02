@@ -1,9 +1,9 @@
-package com.mycompany.mavenproject1;
+package MODULE5LABA.mavenproject1;
 
 import java.io.IOException;
 import javafx.fxml.FXML;
 
-public class PrimaryController {
+public class FXMLExampleController {
 
     @FXML
     private void switchToSecondary() throws IOException {

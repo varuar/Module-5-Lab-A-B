@@ -1,4 +1,4 @@
-package com.mycompany.mavenproject1;
+package MODULE5LABA.mavenproject1;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
